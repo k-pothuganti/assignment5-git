@@ -7,6 +7,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!"; //editing line 10 in file1.cpp
+    std::cout << "Hello World!"; //resolved merge conflict
     return 0;
 }
